@@ -22,12 +22,15 @@ e:) install ipk packages
     opkg install /tmp/packet_forwarder_4.0.1-1_ramips_24kec.ipk
     
 f:) the config files for packet_forwarder you will find in this path:
+    (vi is just installed on the firmware)
 
     /bin/usr/packet_forwarder
     
 g:) Start LORA Gateway with this command
 
     /usr/bin/packet_forwarder# ./lora_pkt_fwd
+
+Enjoy it! :-)
 
 
     
