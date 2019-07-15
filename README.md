@@ -23,7 +23,7 @@ e:) install ipk packages
     
 f:) 
 The configuration files for packet_forwarder are located here 
-    (vi is just installed on the firmware)
+    (vi is just installed with the firmware)
 
     /bin/usr/packet_forwarder
     
